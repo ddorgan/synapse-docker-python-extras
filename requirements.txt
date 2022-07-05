@@ -1,5 +1,5 @@
 Flask==1.1.1
 gevent==1.4.0
 grequests==0.3.0
-ujson==1.35
+ujson==5.4.0
 pyyaml==5.1.1
